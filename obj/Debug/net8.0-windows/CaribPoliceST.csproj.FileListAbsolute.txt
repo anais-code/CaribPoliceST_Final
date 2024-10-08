@@ -1,0 +1,8 @@
+C:\CaribPoliceST\CaribPoliceST\CaribPoliceST\obj\Debug\net8.0-windows\CaribPoliceST.Home.resources
+C:\CaribPoliceST\CaribPoliceST\CaribPoliceST\obj\Debug\net8.0-windows\CaribPoliceST.LoginForm.resources
+C:\CaribPoliceST\CaribPoliceST\CaribPoliceST\obj\Debug\net8.0-windows\CaribPoliceST.Properties.Resources.resources
+C:\CaribPoliceST\CaribPoliceST\CaribPoliceST\obj\Debug\net8.0-windows\CaribPoliceST.csproj.GenerateResource.cache
+C:\CaribPoliceST\CaribPoliceST\CaribPoliceST\obj\Debug\net8.0-windows\CaribPoliceST.GeneratedMSBuildEditorConfig.editorconfig
+C:\CaribPoliceST\CaribPoliceST\CaribPoliceST\obj\Debug\net8.0-windows\CaribPoliceST.AssemblyInfoInputs.cache
+C:\CaribPoliceST\CaribPoliceST\CaribPoliceST\obj\Debug\net8.0-windows\CaribPoliceST.AssemblyInfo.cs
+C:\CaribPoliceST\CaribPoliceST\CaribPoliceST\obj\Debug\net8.0-windows\CaribPoliceST.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+This is a Windows desktop app created with the .NET Framework and C# in Visual Studio 2022.
+It allows users to sign up, login, report a crime, view past reports made, as well as view other basic safety details.
